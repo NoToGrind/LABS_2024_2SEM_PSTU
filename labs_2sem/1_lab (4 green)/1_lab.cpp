@@ -1,3 +1,4 @@
+//1 Вариант
 #include <iostream>
 #include <cstdlib>
 using namespace std;
