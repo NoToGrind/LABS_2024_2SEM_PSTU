@@ -5,7 +5,7 @@
 | Sortings |:white_check_mark: | :x:  |
 | Han_town |:white_check_mark: | :white_check_mark:  |
 |  8 queens|:white_check_mark:  | :x:  |
-| Lab_3(6 green) |:white_check_mark:  | :x::white_check_mark:  |
+| Lab_3(6 green) |:white_check_mark:  | :white_check_mark:  |
 | Lab_4_1(7.1 green) |:white_check_mark:| :white_check_mark:  |
 | Lab_4_2(7.2 green) |:white_check_mark:  | :white_check_mark:  |
 | Lab_5(9 green) | :x:| :x:  | 
