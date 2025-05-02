@@ -3,8 +3,7 @@
 using namespace std;
 int main()
 {
-	int n;
-	int ydal, dobav, ch;
+	int n, ydal, dobav, ch;
 	cin >> n;
 	int* m = new int[n];
 	cout << endl;
