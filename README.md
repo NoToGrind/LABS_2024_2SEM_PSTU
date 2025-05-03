@@ -14,7 +14,7 @@
 | Lab_7(двусвязные списки) | :white_check_mark:| :white_check_mark:  |
 | Lab_7(стек) | :white_check_mark: | :white_check_mark:  |
 | Lab_7(очередь) |:white_check_mark:  | :white_check_mark:  |
-| idef0|:x:  | :x:  | 
+| idef0|:white_check_mark:  | :none:  | 
 | Сложные сортировки:слияние,блочная,подсчет,быстрая по Ломуто|:white_check_mark: | :x:  |
 | Shell and Hoar sorting|:white_check_mark: | :white_check_mark:  |
 | Многофазная сортировка|:white_check_mark:| :white_check_mark:|
