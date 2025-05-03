@@ -4,7 +4,7 @@
 | Lab_2(5 green) | :white_check_mark: | :white_check_mark:  | 
 | Sortings |:white_check_mark: | :x:  |
 | Han_town |:white_check_mark: | :white_check_mark:  |
-| 8 queens|:white_check_mark:  | :x:  |
+| 8 queens|:white_check_mark:  |:white_check_mark:  |
 | Lab_3(6 green) |:white_check_mark:  | :white_check_mark:  |
 | Lab_4_1(7.1 green) |:white_check_mark:| :white_check_mark:  |
 | Lab_4_2(7.2 green) |:white_check_mark:  | :white_check_mark:  |
@@ -20,7 +20,7 @@
 | Многофазная сортировка|:white_check_mark:| :white_check_mark:|
 | Естественная сортировка|:white_check_mark:| :white_check_mark:  |
 | Search(L,I,B)-поиски лин.инте. и бинар.| :white_check_mark: | :x:  |
-| Поиски: Кнут-Моррис-Пратт и Бойер-Мур|:x:  | :x:  |
+| Поиски: Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark: | :x:  |
 | Хэш-таблица|:x:  | :x:  |
 | class_1|:white_check_mark: | :x:  |
 | class_2|:x:  | :x:  |
