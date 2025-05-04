@@ -23,8 +23,8 @@
 | Поиски: Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark: | :x:  |
 | Хэш-таблица|:x:  | :x:  |
 | class_1|:white_check_mark: | :x:  |
-| class_2|:x:  | :x:  |
-| class_3|:x:  | :x:  |
+| class_2|:white_check_mark:  | :x:  |
+| class_3|:white_check_mark:  | :x:  |
 | class_4|:x:  | :x:  |
 | class_5|:x:  | :x:  |
 | class_6|:x:  | :x:  |
