@@ -25,7 +25,7 @@
 | class_1|:white_check_mark: | :x:  |
 | class_2|:white_check_mark:  | :x:  |
 | class_3|:white_check_mark:  | :x:  |
-| class_4|:x:  | :x:  |
+| class_4|:white_check_mark:  | :x:  |
 | class_5|:x:  | :x:  |
 | class_6|:x:  | :x:  |
 | class_7|:x:  | :x:  |
