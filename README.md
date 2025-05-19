@@ -22,10 +22,10 @@
 | Search(L,I,B)-поиски лин.инте. и бинар.| :white_check_mark: | :x:  |
 | Поиски: Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark: | :x:  |
 | Хэш-таблица|:x:  | :x:  |
-| class_1|:white_check_mark: | :x:  |
-| class_2|:white_check_mark:  | :x:  |
-| class_3|:white_check_mark:  | :x:  |
-| class_4|:white_check_mark:  | :x:  |
+| class_1|:white_check_mark: | :white_check_mark:  |
+| class_2|:white_check_mark:  | :white_check_mark:  |
+| class_3|:white_check_mark:  | :white_check_mark:  |
+| class_4|:white_check_mark:  | :white_check_mark:  |
 | class_5|:x:  | :x:  |
 | class_6|:x:  | :x:  |
 | class_7|:x:  | :x:  |
