@@ -2,7 +2,7 @@
 | ------------- | ------------- | ------------- |
 | Lab_1(4 green) | :white_check_mark:| :white_check_mark:  |
 | Lab_2(5 green) | :white_check_mark: | :white_check_mark:  | 
-| Sortings |:white_check_mark: | :x:  |
+| Sortings |:white_check_mark: | :white_check_mark:  |
 | Han_town |:white_check_mark: | :white_check_mark:  |
 | 8 queens|:white_check_mark:  |:white_check_mark:  |
 | Lab_3(6 green) |:white_check_mark:  | :white_check_mark:  |
@@ -15,7 +15,7 @@
 | Lab_7(стек) | :white_check_mark: | :white_check_mark:  |
 | Lab_7(очередь) |:white_check_mark:  | :white_check_mark:  |
 | idef0|:white_check_mark:  | :white_check_mark:  | 
-| Сложные сортировки:слияние,блочная,подсчет,быстрая по Ломуто|:white_check_mark: | :x:  |
+| Сложные сортировки:слияние,блочная,подсчет,быстрая по Ломуто|:white_check_mark: | :white_check_mark:  |
 | Shell and Hoar sorting|:white_check_mark: | :white_check_mark:  |
 | Многофазная сортировка|:white_check_mark:| :white_check_mark:|
 | Естественная сортировка|:white_check_mark:| :white_check_mark:  |
@@ -34,7 +34,7 @@
 | class_10|:white_check_mark:  | :white_check_mark:  |
 | class_11|:white_check_mark:  | :white_check_mark:  |
 | class_12|:white_check_mark:  | :white_check_mark:  |
-| class_13|:white_check_mark:  | :x:  |
+| class_13|:white_check_mark:  | :white_check_mark:  |
 | graf |:white_check_mark:  | :white_check_mark:  |
 | bin_tree |:x:  | :x:  |
 | kommivoaidzer |:x:  | :x:  | 
