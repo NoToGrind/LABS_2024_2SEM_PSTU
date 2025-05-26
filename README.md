@@ -19,7 +19,7 @@
 | Shell and Hoar sorting|:white_check_mark: | :white_check_mark:  |
 | Многофазная сортировка|:white_check_mark:| :white_check_mark:|
 | Естественная сортировка|:white_check_mark:| :white_check_mark:  |
-| Search(L,I,B)-поиски лин.инте. и бинар.| :white_check_mark: | :x:  |
+| Search(L,I,B)-поиски лин.инте. и бинар.| :white_check_mark: | :white_check_mark:  |
 | Поиски: Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark: | :white_check_mark:  |
 | Хэш-таблица|:white_check_mark:  | :white_check_mark:  |
 | class_1|:white_check_mark: | :white_check_mark:  |
