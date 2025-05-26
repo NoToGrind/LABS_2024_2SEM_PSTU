@@ -8,7 +8,7 @@
 | Lab_3(6 green) |:white_check_mark:  | :white_check_mark:  |
 | Lab_4_1(7.1 green) |:white_check_mark:| :white_check_mark:  |
 | Lab_4_2(7.2 green) |:white_check_mark:  | :white_check_mark:  |
-| Lab_5(9 green) | :x:| :x:  | 
+| Lab_5(9 green) | :white_check_mark:| :white_check_mark:  | 
 | Lab_6(10 green) |:white_check_mark: | :white_check_mark:  |
 | Lab_7(односвязные списки) | :white_check_mark:| :white_check_mark:  |
 | Lab_7(двусвязные списки) | :white_check_mark:| :white_check_mark:  |
