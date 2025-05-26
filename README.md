@@ -26,15 +26,15 @@
 | class_2|:white_check_mark:  | :white_check_mark:  |
 | class_3|:white_check_mark:  | :white_check_mark:  |
 | class_4|:white_check_mark:  | :white_check_mark:  |
-| class_5|:x:  | :x:  |
+| class_5|:white_check_mark:  | :x:  |
 | class_6|:white_check_mark:  | :x:  |
-| class_7|:x:  | :x:  |
+| class_7|:white_check_mark:  | :x:  |
 | class_8|:x:  | :x:  |
 | class_9|:x:  | :x:  |
 | class_10|:x:  | :x:  |
 | class_11|:x:  | :x:  |
 | class_12|:x:  | :x:  |
 | class_13|:x:  | :x:  |
-| graf |:white_check_mark:  | :x:  |
+| graf |:white_check_mark:  | :white_check_mark:  |
 | bin_tree |:x:  | :x:  |
 | kommivoaidzer |:x:  | :x:  | 
