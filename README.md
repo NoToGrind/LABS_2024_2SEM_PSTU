@@ -32,9 +32,9 @@
 | class_8|:white_check_mark:  | :white_check_mark:  |
 | class_9|:white_check_mark:  | :x:  |
 | class_10|:white_check_mark:  | :x:  |
-| class_11|:x:  | :x:  |
-| class_12|:x:  | :x:  |
-| class_13|:x:  | :x:  |
+| class_11|:white_check_mark:  | :x:  |
+| class_12|:white_check_mark:  | :x:  |
+| class_13|:white_check_mark:  | :x:  |
 | graf |:white_check_mark:  | :white_check_mark:  |
 | bin_tree |:x:  | :x:  |
 | kommivoaidzer |:x:  | :x:  | 
