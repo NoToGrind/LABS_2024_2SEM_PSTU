@@ -29,9 +29,9 @@
 | class_5|:white_check_mark:  | :x:  |
 | class_6|:white_check_mark:  | :x:  |
 | class_7|:white_check_mark:  | :x:  |
-| class_8|:x:  | :x:  |
-| class_9|:x:  | :x:  |
-| class_10|:x:  | :x:  |
+| class_8|:white_check_mark:  | :white_check_mark:  |
+| class_9|:white_check_mark:  | :x:  |
+| class_10|:white_check_mark:  | :x:  |
 | class_11|:x:  | :x:  |
 | class_12|:x:  | :x:  |
 | class_13|:x:  | :x:  |
