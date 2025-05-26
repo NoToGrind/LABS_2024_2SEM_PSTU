@@ -26,11 +26,11 @@
 | class_2|:white_check_mark:  | :white_check_mark:  |
 | class_3|:white_check_mark:  | :white_check_mark:  |
 | class_4|:white_check_mark:  | :white_check_mark:  |
-| class_5|:white_check_mark:  | :x:  |
-| class_6|:white_check_mark:  | :x:  |
-| class_7|:white_check_mark:  | :x:  |
+| class_5|:white_check_mark:  | :white_check_mark:  |
+| class_6|:white_check_mark:  | :white_check_mark:  |
+| class_7|:white_check_mark:  | :white_check_mark:  |
 | class_8|:white_check_mark:  | :white_check_mark:  |
-| class_9|:white_check_mark:  | :x:  |
+| class_9|:white_check_mark:  | :white_check_mark:  |
 | class_10|:white_check_mark:  | :x:  |
 | class_11|:white_check_mark:  | :x:  |
 | class_12|:white_check_mark:  | :x:  |
