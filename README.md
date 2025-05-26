@@ -21,7 +21,7 @@
 | Естественная сортировка|:white_check_mark:| :white_check_mark:  |
 | Search(L,I,B)-поиски лин.инте. и бинар.| :white_check_mark: | :x:  |
 | Поиски: Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark: | :x:  |
-| Хэш-таблица|:x:  | :x:  |
+| Хэш-таблица|:white_check_mark:  | :white_check_mark:  |
 | class_1|:white_check_mark: | :white_check_mark:  |
 | class_2|:white_check_mark:  | :white_check_mark:  |
 | class_3|:white_check_mark:  | :white_check_mark:  |
@@ -31,9 +31,9 @@
 | class_7|:white_check_mark:  | :white_check_mark:  |
 | class_8|:white_check_mark:  | :white_check_mark:  |
 | class_9|:white_check_mark:  | :white_check_mark:  |
-| class_10|:white_check_mark:  | :x:  |
-| class_11|:white_check_mark:  | :x:  |
-| class_12|:white_check_mark:  | :x:  |
+| class_10|:white_check_mark:  | :white_check_mark:  |
+| class_11|:white_check_mark:  | :white_check_mark:  |
+| class_12|:white_check_mark:  | :white_check_mark:  |
 | class_13|:white_check_mark:  | :x:  |
 | graf |:white_check_mark:  | :white_check_mark:  |
 | bin_tree |:x:  | :x:  |
