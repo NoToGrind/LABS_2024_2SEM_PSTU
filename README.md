@@ -36,5 +36,5 @@
 | class_12|:white_check_mark:  | :white_check_mark:  |
 | class_13|:white_check_mark:  | :white_check_mark:  |
 | graf |:white_check_mark:  | :white_check_mark:  |
-| bin_tree |:x:  | :x:  |
-| kommivoaidzer |:x:  | :x:  | 
+| bin_tree |:white_check_mark:  | :white_check_mark:  |
+| kommivoaidzer |:white_check_mark:  | :white_check_mark:  | 
